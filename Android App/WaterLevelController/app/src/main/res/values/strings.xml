@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Water Level Controller</string>
+    <string name="Tittle1"> <u>Time </u><u>Stamp</u></string>
+    <string name="Tittle2"><u>Total</u></string>
+</resources>
