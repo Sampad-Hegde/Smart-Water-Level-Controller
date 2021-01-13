@@ -22,3 +22,5 @@ This Project is designed for both single phase and three-phase water pumps.
 - (2) 100 ohm Resistor
 - (1) 5v Regulator (if required LM7805)
 - (7) Screw Terminal (optional)
+
+[![Demo video](hthttps://drive.google.com/file/d/1hIYKQmqr-LRGFz6XQMuhxSlBZ_tcRF8t/view?usp=sharing)](https://drive.google.com/file/d/1SjD0leIASNVmkTCEG1S4Xchp6AcPuqz5/view?usp=sharing)
