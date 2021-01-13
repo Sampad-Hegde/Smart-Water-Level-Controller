@@ -1,24 +1,23 @@
-# Smart Water Level Controller
-This Project is designed for both single phase and three-phase water pumps.
+# An android app is created using java and xml
 
-***All relevant files are attached***
+
+<ins>**open the folder using android studio and**</ins>
+
+do the following changes in
+ 
+`WaterLevelController/app/src/main/java/com/example/waterlevelcontroller`
+
+folder,
 
 <br />
 
-## Components Required For single phase Water level controller
-- (1) Node-MCU
-- (6) 680k ohm or greater Resistors
-- (2) 5V Relay
-- (1) 2n2222 Transistor
-- (1) 100 ohm Resistor
-- (1) 5v Regulator (if required LM7805)
-- (6) Screw Terminal (optional)
+replace ip address of your **`django-server`** in the following files
 
-## Components Required For three-phase Water level controller
-- (1) Node-MCU
-- (6) 680k ohm or greater Resistors
-- (2) 5V Relay
-- (2) 2n2222 Transistor
-- (2) 100 ohm Resistor
-- (1) 5v Regulator (if required LM7805)
-- (7) Screw Terminal (optional)
+in `Analytics.java` file , line number 103
+
+in `Controller.java` file , line number 111
+
+in `Status.java ` file , line number 83
+
+
+status update will happen for every 5 seconds
